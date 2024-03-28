@@ -3,12 +3,14 @@
 🌊 Water Quality Prediction Project:
 
 Repository: https://github.com/KH-KIEW/Project_Nest_2_233
+
 Description: Developed a machine learning model to predict water quality parameters based on environmental data. Utilized techniques such as [mention techniques used] to analyze and forecast water quality. Check out the repository for code, documentation, and insights gained from the project.
 
 
 📂 Portfolio:
 
 Repository: https://github.com/Maruthiprasanna-25/My_Portfolio
+
 Description: Created a portfolio website to showcase my projects, skills, and experiences. Explore the portfolio to learn more about my background, view project demos, and connect with me. Constantly updating with new projects and improvements, so stay tuned!
 
 
